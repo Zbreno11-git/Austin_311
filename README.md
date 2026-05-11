@@ -51,7 +51,8 @@ Using SQL, I:
 
 ## BigQuery Screenshot
 
-![BigQuery Screenshot](BigQuery.png)
+![Tableau Dashboard](bigquery_sql.png)
+
 ---
 
 # 🐍 Data Cleaning & Processing
